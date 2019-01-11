@@ -1,2 +1,2 @@
-# UK-Location-Info-by-Postcode-Prefix-with-Javascript-and-FetchApi
+# Javascript UK Location Info using Fetch Api and Bulma
 Small app lo search for UK location Info by Postcode with VanillaJs and FetchApi
